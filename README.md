@@ -3,7 +3,7 @@
 | Student's name    | SCIPER |
 | ----------------- | :----: |
 | François Dumoncel | 314420 |
-| Alexandre Doukhan |  TBD   |
+| Alexandre Doukhan | 316706 |
 | Edouard Michelin  | 314770 |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
