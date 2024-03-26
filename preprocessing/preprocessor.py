@@ -64,7 +64,7 @@ def find_locations(data: pd.DataFrame) -> pd.DataFrame:
         continent_name = pc.convert_continent_code_to_continent_name(continent_code)
         return continent_name
 
-    # data["coords"] = data["venue"].apply(lambda x: get_coords(x))
+    data["coords"] = data["venue"].apply(lambda x: get_coords(x))
     data["continent"] = data["country"].apply(lambda x: get_continent(x))
     return data
 
